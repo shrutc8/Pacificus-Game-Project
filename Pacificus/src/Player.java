@@ -1,6 +1,6 @@
 import javax.swing.ImageIcon;
  
-//Pacificus Final Project
+//Pacificus
 
 public class Player 
 
